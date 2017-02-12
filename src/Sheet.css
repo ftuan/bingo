@@ -1,0 +1,14 @@
+.sheet {
+  margin: auto;
+  margin-top: 100px;
+  page-break-after: always;
+  width: 510px;
+}
+
+.sheet h1 {
+  font-family: pacifico;
+  font-size: 60px;
+  font-style: italic;
+  font-weight: 400;
+  text-align: center;
+}
